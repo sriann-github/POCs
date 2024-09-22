@@ -11,7 +11,7 @@ I have developed and implemented innovative solutions using Azure technologies, 
 
 4. **Azure Text-To-Speech –** The presentation showcases Azure's Text-to-Speech service to empower diverse users and improve accessibility, particularly for those with visual impairments. It highlights the benefits of converting text into natural-sounding speech while supporting multiple languages and voices. Key features are outlined with a practical implementation plan that includes setting up Azure Cognitive Services and creating an intuitive user interface. The integration of the Text-to-Speech API and enhancement options are also discussed. Overall, the presentation illustrates how this technology can foster inclusivity and enhance user experiences. **Recorded demo:** [**https://www.youtube.com/watch?v=OS9nDPpWkWE**](https://www.youtube.com/watch?v=OS9nDPpWkWE)
 
-5. **Form Recognizer \[POC05\]-** Demonstrated a complete solution integrating Azure Form Recognizer with an application for receipts scanning to generate expense calculation sheets, showcasing the end-to-end application building process with Azure cloud environment setup. **Recorded demo:** [**https://youtu.be/DtJZ9mH3jz4**](https://youtu.be/DtJZ9mH3jz4)
+5. **Form Recognizer -** Demonstrated a complete solution integrating Azure Form Recognizer with an application for receipts scanning to generate expense calculation sheets, showcasing the end-to-end application building process with Azure cloud environment setup. **Recorded demo:** [**https://youtu.be/DtJZ9mH3jz4**](https://youtu.be/DtJZ9mH3jz4)
 
 6. **Deploying Ubuntu VM with Python Script** The objective is to demo the deployment of Ubuntu virtual machine with a Python script. **Recorded demo**: <https://youtu.be/VeucpeAzADc>
 
