@@ -1,6 +1,6 @@
 **Profile Appendix on Internship from Srivalli :**
 
-[Srivalli Annamraju | LinkedIn](https://www.linkedin.com/in/srivalliannamraju/)
+[Srivalli Annamraju]
 I have developed innovative solutions in Cloud, Machine Learning, and MLOps using Azure technologies, including a predictive maintenance system and a personalized marketing proof of concept. My expertise includes integrating Azure services for accessibility, building applications with Azure Form Recognizer, and optimizing IT operations through AIOps to tackle traditional challenges. I focus on automation and real-time insights while planning to design an AIOps-powered chatbot in the next phase. This diverse experience showcases my ability to leverage Cloud, ML, MLOps, Gen AI, and AIOps technologies effectively.
 
 1. **AIOPS Phase1 solution: Transforming IT Operations:** Experienced in revolutionizing IT operations with AIOps, I address challenges like manual inefficiencies and limited visibility through AI-driven automation. By integrating diverse IT tools, I enhance processes for proactive incident management and real-time insights. My strategic focus is on improving operational efficiency, reducing costs, and elevating service quality to drive innovation and business success. **Recorded demo: https://www.youtube.com/watch?v=SBW7BJtIs_g&authuser=0**
